@@ -9,6 +9,18 @@ Slides for the 3rd CBER Crafting the Cryptoeconomy Conference, Columbia Engineer
 - Each slide file is named by the presenter's last name, e.g. `Crane.pdf` or `Crane.pptx`.
 - Each session's `README.md` lists its presenters and expected file names.
 
+## Missing
+
+Kenneth Rogoff, krogoff@harvard.edu
+Lin William Cong, will.cong@ntu.edu.sg
+Caspar Schwarz-Schilling, caspar@ethlabs.org
+Alvaro Cartea, alvaro.cartea@gmail.com
+Danning Sui, danning@panteracapital.com
+David Rincon-Cruz, David.rinconcruz@uniswap.org
+Ruizhe Jia, jiaruizhe0804@gmail.com
+Julian Ma, julian@ethlabs.org
+Mallesh Pai, mallesh@tempo.xyz
+
 ## Schedule
 
 Day 1:

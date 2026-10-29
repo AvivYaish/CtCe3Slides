@@ -11,15 +11,14 @@ Slides for the 3rd CBER Crafting the Cryptoeconomy Conference, Columbia Engineer
 
 ## Missing
 
-Kenneth Rogoff, krogoff@harvard.edu
-Lin William Cong, will.cong@ntu.edu.sg
-Caspar Schwarz-Schilling, caspar@ethlabs.org
-Alvaro Cartea, alvaro.cartea@gmail.com
-Danning Sui, danning@panteracapital.com
-David Rincon-Cruz, David.rinconcruz@uniswap.org
-Ruizhe Jia, jiaruizhe0804@gmail.com
-Julian Ma, julian@ethlabs.org
-Mallesh Pai, mallesh@tempo.xyz
+- Kenneth Rogoff, krogoff@harvard.edu
+- Lin William Cong, will.cong@ntu.edu.sg
+- Caspar Schwarz-Schilling, caspar@ethlabs.org
+- Alvaro Cartea, alvaro.cartea@gmail.com
+- Danning Sui, danning@panteracapital.com
+- David Rincon-Cruz, David.rinconcruz@uniswap.org
+- Julian Ma, julian@ethlabs.org
+- Mallesh Pai, mallesh@tempo.xyz
 
 ## Schedule
 

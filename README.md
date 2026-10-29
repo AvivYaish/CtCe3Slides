@@ -29,7 +29,7 @@ Day 1:
 - Patrick Schorno, Commodity Futures Trading Commission
 - Scott Kominers, Harvard University and a16z crypto (virtual)
 - Julian Ma, Ethlabs
-- Mallesh Pai, Tempo
+- Mallesh Pai, Tempo: https://slides.tempo.xyz/columbia-ctce-2026/?k=8991899ababd069f98b09b4c90d51de2f63b12674498ba82a20a042fb1e2a4e6
 - Marco Reuter, International Monetary Fund
 - David Scharfstein, Harvard University
 - Uday Rajan, University of Michigan

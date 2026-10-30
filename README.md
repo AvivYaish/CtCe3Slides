@@ -11,7 +11,6 @@ Slides for the 3rd CBER Crafting the Cryptoeconomy Conference, Columbia Engineer
 
 ## Missing
 
-- Caspar Schwarz-Schilling, caspar@ethlabs.org
 - Danning Sui, danning@panteracapital.com
 - David Rincon-Cruz, David.rinconcruz@uniswap.org
 
@@ -35,7 +34,7 @@ Day 2:
 
 - James Bartusek, Columbia University
 - Brett Falk, University of Pennsylvania
-- Caspar Schwarz-Schilling, Ethlabs
+- Caspar Schwarz-Schilling, Ethlabs: https://docs.google.com/presentation/d/1u5IXwMpTBIgS8il4XSSKUKXXSUs9EPqSQ1a8DoT8ug4/edit?usp=sharing
 - Akaki Mamageishvili, Offchain Labs
 - Ed Felten, Offchain Labs
 - Hayden Adams, Uniswap Labs

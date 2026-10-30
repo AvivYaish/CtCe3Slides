@@ -12,7 +12,6 @@ Slides for the 3rd CBER Crafting the Cryptoeconomy Conference, Columbia Engineer
 ## Missing
 
 - Kenneth Rogoff, krogoff@harvard.edu
-- Lin William Cong, will.cong@ntu.edu.sg
 - Caspar Schwarz-Schilling, caspar@ethlabs.org
 - Alvaro Cartea, alvaro.cartea@gmail.com
 - Danning Sui, danning@panteracapital.com

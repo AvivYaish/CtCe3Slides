@@ -11,7 +11,6 @@ Slides for the 3rd CBER Crafting the Cryptoeconomy Conference, Columbia Engineer
 
 ## Missing
 
-- Danning Sui, danning@panteracapital.com
 
 ## Schedule
 

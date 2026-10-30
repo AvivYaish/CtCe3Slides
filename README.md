@@ -12,7 +12,6 @@ Slides for the 3rd CBER Crafting the Cryptoeconomy Conference, Columbia Engineer
 ## Missing
 
 - Caspar Schwarz-Schilling, caspar@ethlabs.org
-- Alvaro Cartea, alvaro.cartea@gmail.com
 - Danning Sui, danning@panteracapital.com
 - David Rincon-Cruz, David.rinconcruz@uniswap.org
 
@@ -41,7 +40,7 @@ Day 2:
 - Ed Felten, Offchain Labs
 - Hayden Adams, Uniswap Labs
 - Simon Mayer, Carnegie Mellon University
-- Álvaro Cartea, University of Oxford
+- Álvaro Cartea, University of Oxford (presented by Faycal Drissi): https://www.faycaldrissi.com/temp-talk
 - Danning Sui, Pantera Capital
 - David Rincon-Cruz, Uniswap Labs
 - Joel Hasbrouck, NYU Stern

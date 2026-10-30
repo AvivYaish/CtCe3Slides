@@ -34,7 +34,7 @@ Day 2:
 
 - James Bartusek, Columbia University
 - Brett Falk, University of Pennsylvania
-- Caspar Schwarz-Schilling, Ethlabs: https://docs.google.com/presentation/d/1u5IXwMpTBIgS8il4XSSKUKXXSUs9EPqSQ1a8DoT8ug4/edit?usp=sharing
+- Caspar Schwarz-Schilling, Ethlabs: https://docs.google.com/presentation/d/1u5IXwMpTBIgS8il4XSSKUKXXSUs9EPqSQ1a8DoT8ug4/edit?usp=sharing (link 1); https://docs.google.com/presentation/d/1ogsJWoBKkpuXgCqCea2E8J4__hJUBX2GzI8r8ORjXl8/edit?usp=drivesdk (link 2)
 - Akaki Mamageishvili, Offchain Labs
 - Ed Felten, Offchain Labs
 - Hayden Adams, Uniswap Labs
